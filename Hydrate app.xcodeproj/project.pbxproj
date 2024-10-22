@@ -14,6 +14,8 @@
 		04C7E4402CC5948400F893D5 /* Hydrate_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7E43F2CC5948400F893D5 /* Hydrate_appTests.swift */; };
 		04C7E44A2CC5948400F893D5 /* Hydrate_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7E4492CC5948400F893D5 /* Hydrate_appUITests.swift */; };
 		04C7E44C2CC5948400F893D5 /* Hydrate_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7E44B2CC5948400F893D5 /* Hydrate_appUITestsLaunchTests.swift */; };
+		04C7E45C2CC59AB700F893D5 /* NextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7E45B2CC59AB700F893D5 /* NextView.swift */; };
+		04C7E45E2CC5A34000F893D5 /* WaterIntakeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C7E45D2CC5A34000F893D5 /* WaterIntakeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		04C7E4452CC5948400F893D5 /* Hydrate appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hydrate appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C7E4492CC5948400F893D5 /* Hydrate_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrate_appUITests.swift; sourceTree = "<group>"; };
 		04C7E44B2CC5948400F893D5 /* Hydrate_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrate_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		04C7E45B2CC59AB700F893D5 /* NextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextView.swift; sourceTree = "<group>"; };
+		04C7E45D2CC5A34000F893D5 /* WaterIntakeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterIntakeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				04C7E42E2CC5948200F893D5 /* Hydrate_appApp.swift */,
 				04C7E4302CC5948200F893D5 /* ContentView.swift */,
+				04C7E45B2CC59AB700F893D5 /* NextView.swift */,
+				04C7E45D2CC5A34000F893D5 /* WaterIntakeView.swift */,
 				04C7E4322CC5948400F893D5 /* Assets.xcassets */,
 				04C7E4342CC5948400F893D5 /* Preview Content */,
 			);
@@ -259,6 +265,8 @@
 			files = (
 				04C7E4312CC5948200F893D5 /* ContentView.swift in Sources */,
 				04C7E42F2CC5948200F893D5 /* Hydrate_appApp.swift in Sources */,
+				04C7E45E2CC5A34000F893D5 /* WaterIntakeView.swift in Sources */,
+				04C7E45C2CC59AB700F893D5 /* NextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
