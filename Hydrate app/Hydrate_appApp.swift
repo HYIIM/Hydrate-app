@@ -11,7 +11,7 @@ import SwiftUI
 struct Hydrate_appApp: App {
     var body: some Scene {
         WindowGroup {
-            WaterIntakeView()
+            HydrateView()
         }
     }
 }
